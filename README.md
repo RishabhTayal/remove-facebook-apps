@@ -14,4 +14,4 @@ Small automator script to remove Facebook apps.
 - Voila! This should start removing apps from your Facebook account.
 
 ## Contributing
-Open an issue or submit PR if you would like to contribute.
+[Open an issue](https://github.com/RishabhTayal/remove-facebook-apps/issues/new) or [submit PR](https://github.com/RishabhTayal/remove-facebook-apps/compare?expand=1) if you would like to contribute.
